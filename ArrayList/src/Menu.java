@@ -10,7 +10,7 @@ public class Menu {
 
         int opc = 0;
 
-        while (opc != 7) {
+        while (opc != 6) {
             System.out.println("Digite a opção desejada:");
             System.out.println("1 - Adicionar novo contato");
             System.out.println("2 - Remover contato");
